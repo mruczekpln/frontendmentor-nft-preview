@@ -18,7 +18,6 @@ p {
 }
 
 .card-content {
-  transform: scale(1.2);
   width: 275px;
   height: auto;
   background-color: #14253d;
